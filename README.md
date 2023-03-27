@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Leobacamarte&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=100&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Leobacamarte&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Leobacamarte" />
   <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Leobacamarte&bg_color=000000&color=6ad600&line=fb8c00&point=dd2727&area=true&radius=14&hide_border=true" alt="Leobacamarte" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leobacamarte&layout=compact&card_width=120&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
